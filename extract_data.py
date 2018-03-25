@@ -67,3 +67,6 @@ class TrainModel(object):
         print("Model saved %s" % os.path.join(curr_path,'models/model.pkl'))
 
 
+#train_file='LabelledData (1).txt'
+#model_class=TrainModel(train_file)
+#model_class.train()

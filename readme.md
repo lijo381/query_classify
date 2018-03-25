@@ -12,3 +12,5 @@ Spacy Language installation
 
 
 
+For training the model run the extract_data.py (Open it and uncomment out the following three lines)
+For prediction run the prediction.py
